@@ -1,6 +1,6 @@
 #Inciweb FTP Wildfire Data Pull
 
-A shell script for pulling up-to-date shapefiles from Inciweb's FTP and converting to GEOjson variables
+**A shell script for pulling up-to-date shapefiles from Inciweb's FTP and converting to GEOjson variables**
 
 
 wget to download the latest files from urls listed in wildfireDownloadList.txt 
