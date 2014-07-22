@@ -1,5 +1,5 @@
 #!/bin/bash
-wget -i wildfireDownloadList.txt -P /Users/jbernert/Documents/Projects/orFireMap/liveORfireMap/autoUpdate/nwcc_ftp_shapefiles
+wget -i wildfireDownloadList.txt -P /Users/Download/Wherever/You/Want
 cd nwcc_ftp_shapefiles/
 DATE=$(date +%Y%m%d%H)
 mv "NWCC_POINT_DAILY.geojson" "NWCC_POINT_DAILY"_$DATE.geojson
