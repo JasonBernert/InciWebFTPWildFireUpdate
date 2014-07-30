@@ -6,7 +6,7 @@
 wget to download the latest files from urls listed in wildfireDownloadList.txt 
 ```
 #!/bin/bash
-wget -i wildfireDownloadList.txt -P /Users/Download/Wherever/You/Want
+wget -i wildfireDownloadList.txt -P nwcc_ftp_shapefiles/
 ```
 
 Move to a sperate folder to stay organized
@@ -33,7 +33,12 @@ echo 'var fires = ' | cat - NWCC_POINT_DAILY.geojson > temp && mv temp NWCC_POIN
 echo 'var perimeters = ' | cat - NWCC_POLY_DAILY.geojson > temp && mv temp NWCC_POLY_DAILY.geojson
 ```
 
-Remove old shapefiles
+Remove shapefiles
 ```
 rm $(<../removeShapefiles.txt)
+```
+
+Remove JSON files older than 10 Days
+```
+find nwcc_ftp_shapefiles/ -mtime +10 -type f -delete
 ```
