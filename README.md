@@ -3,10 +3,10 @@
 **A shell script for pulling up-to-date shapefiles from Inciweb's FTP and converting to GEOjson variables**
 
 
-wget to download the latest files from urls listed in wildfireDownloadList.txt 
+download from NIFC ftp with curl using the list of links from wildfireDownloadList.txt 
 ```
 #!/bin/bash
-wget -i wildfireDownloadList.txt -P nwcc_ftp_shapefiles/
+for i in `cat wildfireDownloadList.txt` ; do curl -O $i ; done
 ```
 
 Move to a sperate folder to stay organized
