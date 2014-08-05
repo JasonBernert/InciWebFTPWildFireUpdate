@@ -1,16 +1,8 @@
 ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POINT_DAILY.dbf
-ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POINT_DAILY.kmz
 ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POINT_DAILY.prj
-ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POINT_DAILY.sbn
-ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POINT_DAILY.sbx
 ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POINT_DAILY.shp
-ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POINT_DAILY.shp.xml
 ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POINT_DAILY.shx
 ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POLY_DAILY.dbf
-ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POLY_DAILY.kmz
 ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POLY_DAILY.prj
-ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POLY_DAILY.sbn
-ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POLY_DAILY.sbx
 ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POLY_DAILY.shp
-ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POLY_DAILY.shp.xml
 ftp://anonymous@ftp.nifc.gov/Incident_Specific_Data/PACIFIC_NW/%21NWCC_INFO/DAILY_FIRE_DATA/DAILY_SHAPEFILES_KMZ/NWCC_POLY_DAILY.shx
