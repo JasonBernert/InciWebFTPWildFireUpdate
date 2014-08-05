@@ -1,5 +1,5 @@
 #!/bin/bash
-wget -i wildfireDownloadList.txt -P nwcc_ftp_shapefiles/
+for i in `cat wildfireDownloadList.txt` ; do curl -O $i ; done
 cd nwcc_ftp_shapefiles/
 DATE=$(date +%Y%m%d%H)
 mv "NWCC_POINT_DAILY.geojson" "NWCC_POINT_DAILY"_$DATE.geojson
